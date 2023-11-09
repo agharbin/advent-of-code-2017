@@ -1,0 +1,2 @@
+{:deps
+  {adamharbin.advent.common/common {:local/root "../common"}}}

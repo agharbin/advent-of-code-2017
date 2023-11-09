@@ -1,4 +1,4 @@
-(ns advent.2017.01
+(ns adamharbin.advent.2017.1
   (:require
     [clojure.string :as s]))
 
